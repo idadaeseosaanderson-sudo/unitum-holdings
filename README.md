@@ -15,7 +15,7 @@ Founder, CEO & OPM (Owner & Principal Manager), Unitum Holdings Corporation
 - **CSM (Certified Scrum Master)** — Agile frameworks, iterative delivery, team facilitation, and continuous improvement methodologies.
 
 ### Professional Highlights
-- Led an organization to success during MIT "Leading an Organization to Success" training, executing multiple high-impact projects simultaneously using Grok as the primary development and orchestration platform.
+- Led an organization to success during MIT "Leading an Organization to Success" training, executing multiple high-impact projects simultaneously owning the varius tools and environment used for developing and orchestrating the platform orchestration platform.
 - Proven ability in **simultaneous execution of complex, cross-domain projects** under tight timelines and budgetary constraints.
 
 ### Key Projects & Simultaneous Execution Portfolio
