@@ -15,7 +15,7 @@ Founder, CEO & OPM (Owner & Principal Manager), Unitum Holdings Corporation
 - **CSM (Certified Scrum Master)** — Agile frameworks, iterative delivery, team facilitation, and continuous improvement methodologies.
 
 ### Professional Highlights
-- Led an organization to success during MIT "Leading an Organization to Success" training, executing multiple high-impact projects simultaneously owning the varius tools and environment used for developing and orchestrating the platform orchestration platform.
+- Executed **all projects during MIT xPRO Project Management: Leading Organizations to Success** training, with all key projects executed in parallel using Grok for rapid iteration, documentation, and coordination of the platform.
 - Proven ability in **simultaneous execution of complex, cross-domain projects** under tight timelines and budgetary constraints.
 
 ### Key Projects & Simultaneous Execution Portfolio
@@ -27,7 +27,7 @@ Founder, CEO & OPM (Owner & Principal Manager), Unitum Holdings Corporation
 - **Unitum's Virgin Apps / Rollout** — End-to-end development and simultaneous rollout of Unitum's first-generation ("Virgin") applications and platforms.
 - **DC Humlog Project** — Execution of the DC Humlog initiative, delivering critical operational and logistical capabilities.
 
-All projects were executed in parallel during the MIT leadership program with Grok powering rapid iteration, documentation, and coordination.
+All projects were executed in parallel during the MIT xPRO Project Management: Leading Organizations to Success program.
 
 ## Official Digital Presence
 
@@ -94,4 +94,4 @@ Engage via the verified GitHub account: https://github.com/idadaeseosaanderson-s
 
 © Unitum Holdings Corporation
 
-#Bitcoin #Compliance #UnitumHoldings #Agile #ProjectManagement
+#Bitcoin #Compliance #UnitumHoldings #Agile #ProjectManagement #MITxPRO
