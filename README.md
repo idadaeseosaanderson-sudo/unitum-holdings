@@ -4,6 +4,12 @@
 
 The Bitcoin franchise.
 
+## About
+
+Unitum Holdings Corporation is a holding company dedicated to precision capital and the development of compliant digital finance infrastructure at the intersection of Bitcoin and regulated markets.
+
+Our primary mandate is to build and operate saas caas paas iaas and AI systems while leveraging real estate by providing housing solutions to professionals of all walks of life that enable secure, auditable Bitcoin usage across jurisdictions with rigorous tax and regulatory requirements.
+
 ## Leadership
 
 **Anderson Idada**  
