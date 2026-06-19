@@ -81,18 +81,22 @@ Lodestar Hub includes GitHub Actions CI that runs `bun lint` and full production
 
 ### Social Media & Website
 - **Website**: https://www.unitumholdings.com
-- **Instagram**: https://www.instagram.com/ca.unitumholdings/
-- **LinkedIn**: https://www.linkedin.com/in/anderson-idada-unitum (update with exact profile)
+- **Instagram**: https://www.instagram.com/unitumproptech/
+- **LinkedIn**: https://www.linkedin.com/in/anderson-e-idada
 - **GitHub**: https://github.com/idadaeseosaanderson-sudo (primary source of truth)
 
 ### Project Management & Collaboration
-- **Asana Board**: [Insert your Asana board link here, e.g. https://app.asana.com/0/... ] (Primary project tracking and task management for all simultaneous initiatives)
+- **Asana Board**: https://app.asana.com/1/1215064869422959/profile/1215
 
 ### Office Suites & Productivity Platforms
 - **Microsoft 365 / Office Suite**: [Insert company Microsoft 365 tenant link or sharepoint here]
 - **Google Workspace**: [Insert Google Workspace domain admin / drive link here]
 - **Asana**: See Project Management section above
-- Additional tools (Slack, Notion, etc.): Managed via the Asana board and Lodestar Hub
+
+### Contact Emails
+- Operations: operations@unitumholdingscorp.net
+- Support: support@unitumholdingscorp.net
+- Admin: admin@unitumholdingscorp.net
 
 ## Contact
 
